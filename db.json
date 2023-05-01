@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "name": "wrs",
+      "price": "2000",
+      "detail": "edfd",
+      "dateDay": "4/27/2023, 1:51:01 AM",
+      "id": 2
+    },
+    {
+      "name": "rtgrt",
+      "price": "3000",
+      "detail": "rgrfg",
+      "dateDay": "4/27/2023, 1:51:12 AM",
+      "id": 3
+    },
+    {
+      "name": "sdx",
+      "price": "200",
+      "detail": "sdzx",
+      "dateDay": "4/27/2023, 2:00:07 AM",
+      "id": 4
+    },
+    {
+      "name": "rfr",
+      "price": "200",
+      "detail": "rtgv",
+      "dateDay": "4/27/2023, 2:00:27 AM",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "id": 101,
+      "name": "pooja",
+      "email": "pooja@gmail.com"
+    },
+    {
+      "id": 102,
+      "name": "pooja",
+      "email": "p@gmail.com"
+    },
+    {
+      "id": 103,
+      "name": "pooja",
+      "email": "pooja@gmail.com"
+    }
+  ]
+}
